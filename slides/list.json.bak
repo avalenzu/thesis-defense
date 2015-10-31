@@ -1,0 +1,89 @@
+[
+    "title-slide.html",
+    [
+        "learning-locomotion-program.html",
+        "bdi-mitcheetah.html",
+        "hard-terrain1.html",
+        "hard-terrain2.html",
+        "teaser-video.html"
+    ],
+    "outline-top-level.html",
+    [
+        "mp-def.html",
+        "convex-vs-non-convex.html",
+        "mincp.html",
+        "micp.html"
+    ],
+    "general-planning-approaches.html",
+    "motion-planning-food-hall.html",
+    "three-classes-of-motion-planning.html",
+    [
+        "sampling-based-planning-with-dynamics.html",
+        "trajectory-optimization-based-planning-with-dynamics.html",
+        "simple-model-based-planning.html"
+    ],
+    [
+        "search-based-footstep-placement.html",
+        "sampling-based-footstep-placement.html",
+        "footstep-planning-for-atlas.html"
+    ],
+    "outline-MICP.html",
+    [
+      {
+        "filename": "staggered-steps-intro.html",
+        "attr": {
+          "data-transition": "slide-in none-out"
+        }
+      },
+      {
+        "filename": "regions-in-space.html",
+        "attr": {
+          "data-transition": "none"
+        }
+      },
+      {
+        "filename": "position-force-regions.html",
+        "attr": {
+          "data-transition": "none-in slide-out"
+        }
+      },
+      "planar-dynamics.html"
+    ],
+    [
+        {
+            "filename": "bilinear-term.html",
+            "attr": {
+                "data-transition": "slide-in none-out"
+            }
+        },
+        {
+            "filename": "mccormick-envelope.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "piecewise-mccormick-envelope.html",
+            "attr": {
+                "data-transition": "none-in slide-out"
+            }
+        }
+    ],
+    [
+        "bounding-on-ascending-blocks-micp.html"
+    ],
+    "outline-cdfkp.html",
+    [
+        "atlas.html",
+        "kinematic-planning-with-atlas.html",
+        "consistency-constraints.html",
+        "atlas-results.html",
+        "quadrupedal-gaits.html"
+    ],
+    [
+        "staggered-steps-micp-to-cdfkp.html",
+        "bounding-on-stair-steps-cdfkp.html"
+    ],
+    "conclusion.html",
+    "acknowledgements.html"
+]

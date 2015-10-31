@@ -1,0 +1,17 @@
+<h2 class="frametitle">From MICP results to whole-body planning</h2>
+  <div class="left-80">How do we use the results of our footstep + centroidal dynamics planner to formulate the whole body planning problem?</div>
+  <div class="left-80">
+    <h3>Region assignments become kinematic constraints</h3>
+          \[
+          \mathbf{r}_{i} \in \mathcal{R}_{j} \
+          \]
+
+      becomes
+
+        \[
+        A_{j}\,\mathrm{FK}_{i}(\mathbf{q}) \le b_{j}
+        \]
+
+        <br>
+      where $\mathrm{FK}_{i}(\mathbf{q})$ gives the position of the $i$-th foot for the configuration $\mathbf{q}$.
+  </div>

@@ -1,0 +1,37 @@
+<h1 class="frametitle">Formulation</h1>
+<div style="margin-top: 0" class="equal left-100">
+  <div style="margin-top: 0" class="row">
+    <div class="left-half">
+      <h3>Decision variables</h3>
+      <ul>
+        <li>COM Position, $\mathbf{r}$</li>
+        <li>COM Velocity, $\dot{\mathbf{r}}$</li>
+        <li>COM Acceleration, $\ddot{\mathbf{r}}$</li>
+        <li>Angular momentum, $\mathbf{k}$</li>
+        <li>Angular momentum rate, $\dot{\mathbf{k}}$</li>
+        <li>Configuration, $\mathbf{q}$</li>
+        <li>Velocity, $\mathbf{v}$</li>
+        <li>Contact forces, $\mathbf{\lambda}$</li>
+        <li>Time-step durations, $h$</li>
+      </ul>
+    </li>
+  </div>
+  <div class="left-half">
+    <h3>Constraints</h3>
+    <ul>
+      <li>Time integration (Backwards Euler)</li>
+      <li>Centroidal dynamics</li>
+      <li>Friction cones</li>
+      <li>Kinematic constraints (task-specific)</li>
+      <li>Consistency between momenta and joint trajectories</li>
+    </ul>
+    <h3>Cost terms</h3>
+    <ul>
+      <li>Magnitude of COM acceleration</li>
+      <li>Magnitude of contact forces</li>
+      <li>Magnitude of joint velocities</li>
+      <li>Deviation from nominal joint trajectory</li>
+    </ul>
+  </div>
+</div>
+</div>

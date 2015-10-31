@@ -1,0 +1,137 @@
+[
+    "title-slide.html",
+    "work-recap.html",
+    "work-recap2.html",
+    "work-recap2a.html",
+    "work-recap3.html",
+    "big-question.html",
+    "fukishima-example.html",
+    "quad-example.html",
+    [
+        "learning-locomotion-program.html",
+        "drc.html",
+        "flowchart.html",
+        "micp-intro.html",
+        "teaser-video.html"
+    ],
+    "outline-top-level.html",
+    "flowchart_row1.html",
+    "three-classes-of-motion-planning.html",
+    "dynamics-outline.html",
+    [
+        "trajectory-optimization-definition.html",
+        "trajectory-optimization-based-planning-with-dynamics.html",
+        "trajectory-optimization-Remy.html",
+        "simple-model.html",
+        "simple-model-based-planning.html",
+        "simple-model-based-planning-atlas.html"
+    ],
+    "three-classes-of-motion-planning2.html",
+    [
+        "search-based-footstep-placement.html",
+        "footstep-planning-for-atlas.html"
+    ],
+    "all-at-once-approaches.html",
+    "posa.html",
+    "todorov.html",
+    "downsides-of-all-in-one-approaches.html",
+    [
+        "mp-def.html",
+        "convex-vs-non-convex.html",
+        "mincp.html",
+        "micp.html"
+    ],
+    "outline-MICP.html",
+    [
+        {
+            "filename": "staggered-steps-intro.html",
+            "attr": {
+                "data-transition": "slide-in none-out"
+            }
+        },
+        {
+            "filename": "regions-in-space.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "regions-in-space1.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "regions-in-space2.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "regions-in-space3.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "position_region_definition.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "position-force-regions.html",
+            "attr": {
+                "data-transition": "none-in slide-out"
+            }
+        }
+    ],
+    "centroidal-dynamics-def.html",
+    "why-planar.html",
+    "planar-dynamics.html",
+    [
+        {
+            "filename": "bilinear-term.html",
+            "attr": {
+                "data-transition": "slide-in none-out"
+            }
+        },
+        {
+            "filename": "mccormick-envelope.html",
+            "attr": {
+                "data-transition": "none"
+            }
+        },
+        {
+            "filename": "piecewise-mccormick-envelope.html",
+            "attr": {
+                "data-transition": "none-in slide-out"
+            }
+        }
+    ],
+    [
+        "bounding-on-ascending-blocks-micp.html"
+    ],
+    "outline-cdfkp.html",
+    "story-of-cdfkp.html",
+    "kinematic-planning-with-atlas.html",
+    "story-of-cdfkp2.html",
+    [
+        "centroidal-dynamics-cdfkp.html",
+        "cdfkp-basic.html",
+        "consistency-constraints.html",
+        "atlas-results.html",
+        "biped-quadruped.html",
+        "quadrupedal-gaits.html"
+    ],
+    "why-isn-t-that-good-enough.html",
+    [
+        "staggered-steps-micp-to-cdfkp.html",
+        "staggered-steps-micp-to-cdfkp2.html",
+        "bounding-on-stair-steps-cdfkp.html"
+    ],
+    "extension_to_3d.html",
+    "conclusion.html",
+    "acknowledgements.html",
+    "references.html"
+]

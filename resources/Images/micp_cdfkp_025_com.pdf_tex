@@ -1,0 +1,73 @@
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'micp_cdfkp_025_com.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{409.6bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.75)%
+    \put(0,0){\includegraphics[width=\unitlength]{micp_cdfkp_025_com.pdf}}%
+    \put(0.12207031,0.04648438){\makebox(0,0)[lb]{\smash{0}}}%
+    \put(0.26308594,0.04648438){\makebox(0,0)[lb]{\smash{0.2}}}%
+    \put(0.41777344,0.04648438){\makebox(0,0)[lb]{\smash{0.4}}}%
+    \put(0.57246094,0.04648438){\makebox(0,0)[lb]{\smash{0.6}}}%
+    \put(0.72714844,0.04648438){\makebox(0,0)[lb]{\smash{0.8}}}%
+    \put(0.89550781,0.04648438){\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.38378945,0.00976562){\makebox(0,0)[lb]{\smash{Normalized Time}}}%
+    \put(0.06601562,0.07324219){\makebox(0,0)[lb]{\smash{-0.2}}}%
+    \put(0.103125,0.17513027){\makebox(0,0)[lb]{\smash{0}}}%
+    \put(0.07578125,0.27701816){\makebox(0,0)[lb]{\smash{0.2}}}%
+    \put(0.07578125,0.37890625){\makebox(0,0)[lb]{\smash{0.4}}}%
+    \put(0.07578125,0.48079434){\makebox(0,0)[lb]{\smash{0.6}}}%
+    \put(0.07578125,0.58268223){\makebox(0,0)[lb]{\smash{0.8}}}%
+    \put(0.103125,0.68457031){\makebox(0,0)[lb]{\smash{1}}}%
+    \put(0.05039062,0.2470707){\rotatebox{90}{\makebox(0,0)[lb]{\smash{COM Position (m)}}}}%
+    \put(0.2265625,0.6446707){\makebox(0,0)[lb]{\smash{\cref{eqn:MICP} $x$}}}%
+    \put(0.2265625,0.61072363){\makebox(0,0)[lb]{\smash{\cref{eqn:MICP} $z$}}}%
+    \put(0.2265625,0.57677637){\makebox(0,0)[lb]{\smash{\cref{eqn:CDFKP} $x$}}}%
+    \put(0.2265625,0.5428293){\makebox(0,0)[lb]{\smash{\cref{eqn:CDFKP} $z$}}}%
+  \end{picture}%
+\endgroup%

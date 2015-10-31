@@ -1,0 +1,23 @@
+<h2 class="frametitle">From MICP results to whole-body planning</h2>
+  <div class="equal left-100">
+    <h3>Seeding the optimization</h3>
+    <div class="row">
+      <div class="left-half">
+        <h4>Some variables map directly</h4>
+        <ul>
+          <li>COM position and velocity</li>
+          <li>Angular momentum</li>
+          <li>Contact forces</li>
+        </ul>
+      </div>
+      <div class="left-half">
+        <h4>Configuration seeds from inverse kinematics</h4>
+        At each time find configuration that matches
+        <ul>
+          <li>foot positions</li>
+          <li>COM position</li>
+        </ul>
+        from MICP result
+      </div>
+    </div>
+  </div>

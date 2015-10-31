@@ -1,0 +1,28 @@
+<h1 class="frametitle">Enforcing consistency of dynamics</h1>
+<div class="equal">
+  <h3>Two expressions for angular momentum and COM position</h3>
+  <div class="rows">
+    <div class="left-half">
+      <h4>Centroidal dynamics</h4>
+      \begin{align}
+      \dot{\mathbf{k}} &= \sum \tau_{\mathrm{ext}}\\
+      m\ddot{\mathbf{r}} &= \sum \mathbf{f}_{\mathrm{ext}}
+      \end{align}
+    </div>
+    <div class="left-half">
+      <h4>Configuration trajectory</h4>
+      \begin{align}
+        \mathbf{k} &= \mathbf{A}_{G}^{\mathbf{k}}(\mathbf{q}) \mathbf{v} \\
+        \mathbf{r} &= COM(\mathbf{q})
+      \end{align}
+
+      where $\mathbf{A}_{G}^{\mathbf{k}}(\mathbf{q})$ is the first three rows of the centroidal momentum matrix [14]
+  </div>
+  </div>
+</div>
+<div style="margin-top: 0" class="left-80">
+  Requiring these to match makes results dynamically feasible for some set of joint torques.
+</div>
+<div class="footnote-manual">
+  [14] D. E. Orin, A. Goswami, and S.-H. Lee, “Centroidal dynamics of a humanoid robot,” Auton Robot, vol. 35, no. 2–3, pp. 161–176, Oct. 2013.
+</div>
